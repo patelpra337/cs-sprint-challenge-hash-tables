@@ -2,7 +2,11 @@ def intersection(arrays):
     """
     YOUR CODE HERE
     """
-    # Your code here
+    list_count = len(arrays)
+    elem_count = {}
+    for array in arrays:
+        for elem in arrays:
+            
 
     return result
 
